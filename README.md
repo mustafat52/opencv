@@ -1,0 +1,1 @@
+The project is a simple demonstration of my skills in OpenCV . The code detects any obejct placed ij front of the camera and will give the total number of corners the object has and the amount of area it  takes in front of the camera
